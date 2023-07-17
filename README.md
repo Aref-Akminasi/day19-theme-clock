@@ -10,6 +10,7 @@ Users should be able to:
 
 - Tell the time.
 - Tell the date.
+- Switch between light and dark mode.
 
 ### Screenshots
 
